@@ -1,0 +1,27 @@
+body {
+  background-color: beige;
+}
+h1 {
+  color: #345c3f;
+  text-align: center;
+  font-size: 38px;
+  font-family: monospace;
+}
+
+h2 {
+  color: #345c3f;
+  font-style: italic;
+  font-weight: 600;
+  text-align: center;
+  font-family: monospace;
+  line-height: 40px;
+}
+
+p {
+  color: #345c3f;
+  font-style: italic;
+  font-size: 20px;
+  text-align: left;
+  font-family: monospace;
+  line-height: 30px;
+}
